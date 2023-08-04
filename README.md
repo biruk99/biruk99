@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Biruk Daniel.
-- 👀  I’m interested in lots of things but just I develop in Front-End software development, using JS, HTML, CSS.
+- 👀  I’m interested in lots of things but just I develop in Front-End software development, using HTML, CSS, and Java-Script.
 - 🌱 I’m currently working on Frontend Development.
 - 📫 How to reach me biruktech2012@gmail.com
 
