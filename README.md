@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Biruk Daniel.
-- 👀  I’m interested in lots of things but just I develop in Front-End software development using HTML, CSS, Java-Script, React-JS, and PHP Laravel.
+- 👀 I’m interested in lots of things but just to mention some, Front-End software development, and Back-End software development, and general full-stack software development using JS, React Js, PHP.
 - 🌱 I’m currently working on Frontend Development.
 - 📫 How to reach me biruktech2012@gmail.com
 
